@@ -1,8 +1,12 @@
 # My Awesome Project
+<<<<<<< HEAD
+Ini isi proyek
 
-Ini isi proyeka
 Ini isi 1
 
-Ini isi 2
+Ini isi 2 Setelah Revert
 
-Ini isi 3
+Rni isi 3
+>>>>>>> parent of 844a8aa (Add : Contents)
+=======
+# My Awesome Project
